@@ -1,3 +1,13 @@
 #include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#include<string.h>
+
+void login();
+void loading();
+void main_menu():
+
 int main()
 {
+
+
